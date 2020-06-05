@@ -4,8 +4,8 @@
   <artifactId>happy</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  
   <modules>
-  	<module>controllers</module>
   	<module>daos</module>
   	<module>services</module>
   </modules>

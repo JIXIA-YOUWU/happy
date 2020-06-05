@@ -6,11 +6,4 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>services</artifactId>
-  <dependencies>
-  	<dependency>
-  		<groupId>com.neusoft</groupId>
-  		<artifactId>daos</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
-  </dependencies>
 </project>

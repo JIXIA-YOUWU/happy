@@ -7,16 +7,4 @@
   </parent>
   <artifactId>controllers</artifactId>
   <packaging>war</packaging>
-  <dependencies>
-  <dependency>
-  		<groupId>com.neusoft</groupId>
-  		<artifactId>services</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
-  	<dependency>
-  		<groupId>com.neusoft</groupId>
-  		<artifactId>daos</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
-  </dependencies>
 </project>
